@@ -18,9 +18,9 @@ LMS 시스템 전반을 설계 및 개발하였습니다.
 - Linux / Nginx / Apache
 
 ## Main Projects
+- Education Platform
 - Pass Prediction System
 - Mock Exam System
-- Education Platform
 
 ## Contact
 - Email: dlumjjang@naver.com
